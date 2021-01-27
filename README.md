@@ -9,10 +9,10 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Spring 2021
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Exploratory Analysis on the ANES Cumulative Time Series Data - Understanding Our Young Voters
++ This project is conducted by Catherine Gao
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: This project uses the Time Series Cumulative Data File from the ANES website and primarily focuses on the political behavior of young voters who are between the age of 17 to 24. In particular, this project explores if there is an increasing rate of young people participating in election voting and what is the profile of those who vote. The ultimate goal is to understand how to attract more young people to vote in elections.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
